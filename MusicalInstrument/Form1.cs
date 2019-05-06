@@ -86,5 +86,7 @@ namespace MusicalInstrument
             Text = $"Musical Instrument! ({dX},{dY} ({vol},{freq}))";
              
         }
+
+        
     }
 }
